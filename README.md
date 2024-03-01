@@ -17,3 +17,8 @@ Les données dont nous aurons besoin pour ce projet proviennnent:
 ### III. Outil(s) utilisé(s)
 
 ### IV. Elaboration du dashboard
+  #### IV.1. Création du blueprint
+  #### IV.2. Création du mockup
+  #### IV.3. Création du tableau de bord
+
+### V. Conclusion
