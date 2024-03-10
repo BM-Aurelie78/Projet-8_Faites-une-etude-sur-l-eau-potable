@@ -19,7 +19,6 @@ Les données dont nous aurons besoin pour ce projet proviennnent:
 - Power BI/Power Query (Tableau de bord)
 
 ### IV. Elaboration du dashboard
-
   #### IV.1. Création du blueprint
   Un document word qui présente sous forme de tableau :
   - les besoins de l'ONG DWFA;
@@ -29,6 +28,13 @@ Les données dont nous aurons besoin pour ce projet proviennnent:
   Schéma montrant les visualisations, des sélecteurs et des indicateurs.
   #### IV.3. Création du tableau de bord
   - Nettoyage des données sur Power BI/Query.
-  - visualisations adéquates.
+  - Calcul avec des formumes DAX
+  - visualisations adéquates, sélecteurs et indicateurs.
 
 ### V. Conclusion
+Si l’on exclue les pays instables La DWFA devrait demander des financement pour intervenir :
+-  En Afrique (Tchad, Sierra Léone, Niger, Kenya)  installer plus de structures de base et de structures de qualité;
+- En Asie du Sud-Est (Inde, Népal) pour moderniser les installation d’eau potable devenu vétuste;
+Manque de données pour déterminer l’accès à l’eau potable pour de nombreux pays.
+
+
